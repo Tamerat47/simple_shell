@@ -1,0 +1,25 @@
+#!/bin/bash
+betty _atoi.c
+betty environ.c
+betty exits.c
+betty getLine.c
+betty lists.c
+betty parser.c
+betty shell.h
+betty string.c
+betty builtin1.c
+betty errors1.c  
+betty getenv.c
+betty history.c
+betty main.c 
+betty README.md
+betty shell_loop.c
+betty tokenizer.c
+betty builtin.c 
+betty errors.c  
+betty getinfo.c
+betty lists1.c
+betty memory.c
+betty realloc.c
+betty string1.c
+betty vars.c
