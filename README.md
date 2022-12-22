@@ -1,5 +1,5 @@
 # ALX Simple Shell Team Project
-
+#Olyad Tafa and Tamerat Mekonnen
 ## Project was completed using
 
 - C language
